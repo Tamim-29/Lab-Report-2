@@ -23,7 +23,7 @@ Ensure you have the following NuGet packages installed:
 
 ## Project Structure
 ```
-Lab-Report/
+Lab-Report-2/
 │
 ├── src/                    # Source code directory
 │   └── [Your C# files]
@@ -35,14 +35,14 @@ Lab-Report/
 │   └── [Additional documentation]
 │
 ├── README.md               # This file
-└── Lab-Report.sln          # Solution file
+└── Lab-Report-2.sln          # Solution file
 ```
 
 ## Building the Project
 To build the project, use one of the following methods:
 
 ### Using Visual Studio
-1. Open `Lab-Report.sln`
+1. Open `Lab-Report-2.sln`
 2. Build → Build Solution (Ctrl+Shift+B)
 
 ### Using Command Line
@@ -61,7 +61,7 @@ dotnet test
 ```
 
 ## Key Features
-- [List key features or learning objectives of your lab report]
+- [List key features or learning objectives of your lab-report-2]
 - [Highlight specific C# concepts demonstrated]
 - [Describe any unique implementations]
 
