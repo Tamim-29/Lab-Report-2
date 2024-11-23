@@ -1,7 +1,7 @@
-# Lab Report-2 Project
+# Lab-Report-2 Project
 
 ## Project Description
-This repository contains a C# Lab Report demonstrating various programming concepts and implementations developed during the laboratory session.
+This repository contains a C# Lab-Report-2 demonstrating various programming concepts and implementations developed during the laboratory session.
 
 ## Prerequisites
 - .NET SDK (recommended version: .NET 6.0 or later)
@@ -13,7 +13,7 @@ This repository contains a C# Lab Report demonstrating various programming conce
 ### Cloning the Repository
 ```bash
 git clone https://github.com/Tamim-29/Lab-Report-2.git
-cd Lab Report-2
+cd Lab-Report-2
 ```
 
 ### Required Dependencies
@@ -72,7 +72,7 @@ dotnet test
 ## License
 MIT License
 
-Copyright (c) 2024 Md. Nasim Uddin Khan
+Copyright (c) 2024 Tamim-29
 
 ## Additional Notes
 - Ensure you have the latest .NET SDK installed
